@@ -10,12 +10,11 @@
 
 - Java 17 / Spring Boot
 - Spring Cloud (Eureka, Gateway)
-- Angular 16 (frontend)
 - MySQL / JPA
 - Maven
 - Git / GitHub
 
-## 🧪 Fonctionnalités principales
+## 🧪 Fonctionnalités principales (crud et avancée)
 
 - ✅ CRUD des examens et questions
 - ✅ Soumission d’un examen et calcul de score
