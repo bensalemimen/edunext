@@ -52,12 +52,12 @@ Voici quelques-uns des points de terminaison principaux que tu peux tester avec 
    - **Description** : Soumet un examen et calcule le score.
    - **Exemple de body** :
      ```json
-    {
-  "examId": 27,
-  "answers": {
-    "44": "Paris"
-  }
-}
+     {
+       "examId": 27,
+       "answers": {
+         "44": "Paris"
+             }
+     }
 
      ```
 
