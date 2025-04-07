@@ -22,7 +22,6 @@ public class Certificate implements Serializable {
     private String recipientName;
     private LocalDate issueDate;
 
-
    /* @ManyToOne
     @JoinColumn(name = "exam_id")
     private Exam exam;*/

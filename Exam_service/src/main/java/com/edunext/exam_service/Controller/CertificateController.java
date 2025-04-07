@@ -1,7 +1,6 @@
 package com.edunext.exam_service.Controller;
 
 import com.edunext.exam_service.Model.Certificate;
-import com.edunext.exam_service.Service.CertificateService;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

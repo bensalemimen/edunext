@@ -25,9 +25,6 @@ public class Exam implements Serializable {
     private int totalMarks;
     private int passingScore;
     private LocalDate scheduledDate;
-    private LocalDate expirationDate;
-    private boolean active = true;
-
 
     @OneToMany(mappedBy = "exam", cascade = CascadeType.ALL)
     @JsonManagedReference

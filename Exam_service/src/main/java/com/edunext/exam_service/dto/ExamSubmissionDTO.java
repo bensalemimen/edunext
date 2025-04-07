@@ -1,10 +1,7 @@
 package com.edunext.exam_service.dto;
 
-import lombok.Data;
-
 import java.util.Map;
 
-@Data
 public class ExamSubmissionDTO {
     public int examId;
     public Long userId;
